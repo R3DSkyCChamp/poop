@@ -9,6 +9,12 @@
   height: 120px;
 }
 
+.myButton {
+	background: #00FF00;
+	margin: 5px;
+	width: 100px;
+}
+
 .App-header {
   background-color: #FF0000;
   border-radius: 0 0 80px 80px;
