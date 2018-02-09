@@ -9,7 +9,7 @@ class MyButton extends Component {
 		return (
 			<div className='myButton' 
 			  style={{width}} 
-			  onClick={()=> alert('\wybrane ime to '+label+' !!!')}
+			  onClick={()=> alert('\wybrane imie to '+label+' !!!')}
 			  >
 			{label}
 			</div>
